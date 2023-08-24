@@ -1,2 +1,2 @@
 # MMM-PagesChange
-Tactile Burton to turn pages
+Tactile Buttons to turn MM pages
