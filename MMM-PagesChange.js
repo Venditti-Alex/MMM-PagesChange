@@ -29,9 +29,6 @@ Module.register("EXT-Selfies", {
     },
   
     getDom: function() {
-      var dom = document.createElement("div")
-      dom.id = "MMM-PAGES-CHANGE"
-
       var pannel = document.createElement("div")
       pannel.id = "PAGES-PANNEL"
 
